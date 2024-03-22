@@ -17,6 +17,11 @@
 <br><br>
 
 ### Wallets
+- You can create e.g. at metamask your wallet. Their will be a password for the browser extension and then a passphrase will be generated. This passphrase can be later als import in your e.g. trustwallet wallet and be used their.
+
+<br><br>
+
+#### Services
 - trustwallet.com
   - You can buy coins at Revolut from you bank cash and then send it to trust wallet to buy there coins
 - Revolut
