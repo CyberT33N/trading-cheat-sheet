@@ -23,7 +23,8 @@ sudo snap install tradingview
 <br><br>
 
 ### Wallets
-- You can create e.g. at metamask your wallet. Their will be a password for the browser extension and then a passphrase will be generated. This passphrase can be later als import in your e.g. trustwallet wallet and be used their.
+- You can create e.g. at metamask your wallet. Their will be a password for the browser extension and then a passphrase (seed) will be generated. This passphrase can be later als import in your e.g. trustwallet wallet and be used their.
+  - **passphrase=seed & address=username**
 
 <br><br>
 
