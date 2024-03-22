@@ -8,6 +8,42 @@ sudo snap install tradingview
 
 <br><br>
 
+### Charts
+
+<br><br>
+
+#### POC (Point of Control)
+- Der Point of Control (POC) in einem Chart ist ein Konzept aus der Marktprofiltheorie, das den Preislevel innerhalb eines bestimmten Zeitraums repräsentiert, zu dem das höchste Handelsvolumen stattgefunden hat. Kurz gesagt, es ist der Preis, bei dem die meisten Handelsaktivitäten (Käufe und Verkäufe) für einen bestimmten Zeitrahmen erfolgt sind.
+  - Hier hällt sich der Kurs gerne auf bis er ausbricht
+  - 
+<br><br>
+
+#### Fib-Level
+- Ein "Fib-Level" bezieht sich auf Fibonacci-Level, eine Gruppe von Zahlen, die aus der berühmten Fibonacci-Sequenz abgeleitet sind, und in der technischen Analyse verwendet werden, um potenzielle Unterstützungs- und Widerstandsniveaus auf einem Chart zu identifizieren. Die Fibonacci-Sequenz beginnt mit 0 und 1, und jede nachfolgende Zahl ist die Summe der beiden vorhergehenden Zahlen (z.B., 0, 1, 1, 2, 3, 5, 8, 13, 21, ...).
+
+In der technischen Analyse werden aus dieser Sequenz Prozentwerte abgeleitet, die häufig als Fibonacci-Retracement-Levels bezeichnet werden. Die am häufigsten verwendeten Fib-Levels sind 23,6 %, 38,2 %, 50 %, 61,8 % und manchmal auch 76,4 %. Diese Werte werden verwendet, um nach signifikanten Preisbewegungen die Bereiche zu schätzen, an denen der Markt pausieren oder umkehren könnte.
+
+Die Anwendung der Fibonacci-Level im Trading folgt einer einfachen Logik: Nach einer starken Bewegung (entweder nach oben oder unten) gehen Trader davon aus, dass der Preis sich zurückziehen und dann entweder seine ursprüngliche Bewegung fortsetzen oder umkehren wird. Die Fibonacci-Level dienen als Marker, wo solche Rückzüge enden könnten.
+
+So wenden Trader die Fib-Levels an:
+- Bei einem Aufwärtstrend wird das Fibonacci-Retracement-Tool vom Tiefpunkt der Bewegung zum Höhepunkt gezogen, um potenzielle Unterstützungsniveaus zu identifizieren, an denen der Preis während eines Rückzugs Unterstützung finden und wieder nach oben drehen könnte.
+- Bei einem Abwärtstrend wird es vom Höhepunkt zum Tiefpunkt der Bewegung gezogen, um potenzielle Widerstandsniveaus zu identifizieren, an denen der Preis während eines Rückzugs auf Widerstand treffen und wieder nach unten drehen könnte.
+
+Die 50%-Marke wird oft als Fibonacci-Level angesehen, obwohl sie technisch nicht aus der Fibonacci-Sequenz stammt. Sie wird wegen ihrer Einfachheit und der Beobachtung, dass Märkte oft die Hälfte einer großen Bewegung zurückverfolgen, bevor sie weiter in die ursprüngliche Richtung voranschreiten, häufig einbezogen.
+
+Es ist wichtig zu betonen, dass, obwohl Fibonacci-Level von vielen Tradern genutzt werden, ihre Wirksamkeit stark vom Marktumfeld und der Einhaltung anderer Analysemethoden abhängt. Wie bei allen Trading-Strategien gibt es keine Garantie, dass die Preise den Fibonacci-Leveln folgen werden.
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
 ## Krypto
 
 ### Good 2 know
