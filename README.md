@@ -1,5 +1,11 @@
 # Trading Cheat Sheet
 
+## GUI
+- [tradingview](https://de.tradingview.com/desktop/)
+```
+sudo snap install tradingview
+```
+
 <br><br>
 
 ## Krypto
