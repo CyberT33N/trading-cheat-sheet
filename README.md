@@ -39,6 +39,21 @@ sudo snap install tradingview
 - Briefly speaking, Smart Trade is an intelligent & 7/24 hours trading bot. You can use it to schedule buying and selling at the same time with the take profit and stop loss, which can help you to get the up-trend profit and avoid the risk of huge losses. Smart Trade consists of 3 parts: Buy-in setting, Take profit setting and Stop Loss setting. After these three parts of parameters are confirmed, you will start your “Smart Trade” strategy! With the “Smart Trade”, you can make an inestimable profit with a controllable loss to and never need to constantly monitor the markets any more!
 
 
+##### Grid Trading (recommended)
+- https://www.pionex.com/blog/pionex-grid-bot/
+- https://blog.pionex.com/wp-content/uploads/2023/02/grid-trading-bot01.gif
+- Crypto investors should consider using a Grid Trading Bot to mitigate the risk of missing market opportunities and inaccurately timing stop loss or take profit decisions. This new trading strategy enables the program to execute trades that “buy low and sell high” within a pre-determined price range automatically. Not only does this help crypto investors to overcome market volatility, but it also provides a steady source of profits.
+```
+1. Open the Pionex app and select the “Trade” button located at the bottom of the screen.
+2. Navigate to the “Bot” section located at the top of the screen.
+3. Click the “Create” button.
+4 Select the option for “Grid Trading Bot”.
+5. Choose a cryptocurrency and configure the relevant parameters for the Grid Trading Bot. Once complete, you will have successfully created your bot.
+```
+- It is recommended to use AI strategy
+
+
+
 
 
 
