@@ -15,31 +15,32 @@ sudo snap install tradingview
 
 
 
-
-
-
-
-
-
-
-
+<br><br>
+<br><br>
+____________________________________________________
+____________________________________________________
 <br><br>
 <br><br>
 
-### Trading Bots
+
+# Trading Bots
 
 <br><br>
 
-#### Pionex
+## Pionex
 
 <br><br>
 
-##### Smart Trade
+### Smart Trade
 - https://www.pionex.com/blog/smart-trade-en/
 - Briefly speaking, Smart Trade is an intelligent & 7/24 hours trading bot. You can use it to schedule buying and selling at the same time with the take profit and stop loss, which can help you to get the up-trend profit and avoid the risk of huge losses. Smart Trade consists of 3 parts: Buy-in setting, Take profit setting and Stop Loss setting. After these three parts of parameters are confirmed, you will start your “Smart Trade” strategy! With the “Smart Trade”, you can make an inestimable profit with a controllable loss to and never need to constantly monitor the markets any more!
 
 
-##### Grid Trading (recommended)
+
+<br><br>
+<br><br>
+
+### Grid Trading (recommended)
 - https://www.pionex.com/blog/pionex-grid-bot/
 - https://blog.pionex.com/wp-content/uploads/2023/02/grid-trading-bot01.gif
 - Crypto investors should consider using a Grid Trading Bot to mitigate the risk of missing market opportunities and inaccurately timing stop loss or take profit decisions. This new trading strategy enables the program to execute trades that “buy low and sell high” within a pre-determined price range automatically. Not only does this help crypto investors to overcome market volatility, but it also provides a steady source of profits.
@@ -52,8 +53,21 @@ sudo snap install tradingview
 ```
 - It is recommended to use AI strategy
 
-###### Adjust margin
-- If you think the botis running good you can adjust the margin which means adding more balance to the bot to work with
+<br><br>
+<br><br>
+
+#### Margin
+- Margin Trading ermöglicht es Tradern, geliehene Mittel zu nutzen, um ihre Handelsposition zu erhöhen und somit die potenziellen Gewinne (aber auch die potenziellen Verluste) zu vergrößern.
+
+<br><br>
+
+##### Adjust margin
+- "Adjust Margin" bei einem Grid Trading Bot auf Pionex bezieht sich auf die Anpassung der Marge (Margin), die für das Grid Trading verwendet wird.
+
+<br><br>
+
+##### Withdraw margin
+- If you want you can withdraw your margin back again to your account balance
 
 
 
