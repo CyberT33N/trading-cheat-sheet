@@ -52,6 +52,9 @@ sudo snap install tradingview
 ```
 - It is recommended to use AI strategy
 
+###### Adjust margin
+- If you think the botis running good you can adjust the margin which means adding more balance to the bot to work with
+
 
 
 
