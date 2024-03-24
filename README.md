@@ -32,8 +32,8 @@ ____________________________________________________
 <br><br>
 
 ### Resume
-1. Bullish Trend - Aggressive - 15x Long - 7D
-2. Grid AI Strategy - 30d
+1. BTC -  Bullish Trend - Aggressive - 15x Long - 7D
+2. ETH - Grid AI Strategy - 30d
 
 
 
