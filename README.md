@@ -31,9 +31,35 @@ ____________________________________________________
 
 <br><br>
 
+### Resume
+1. Bullish Trend - Aggressive - 15x Long - 7D
+2. Grid AI Strategy - 30d
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
 ### Smart Trade
 - https://www.pionex.com/blog/smart-trade-en/
 - Briefly speaking, Smart Trade is an intelligent & 7/24 hours trading bot. You can use it to schedule buying and selling at the same time with the take profit and stop loss, which can help you to get the up-trend profit and avoid the risk of huge losses. Smart Trade consists of 3 parts: Buy-in setting, Take profit setting and Stop Loss setting. After these three parts of parameters are confirmed, you will start your “Smart Trade” strategy! With the “Smart Trade”, you can make an inestimable profit with a controllable loss to and never need to constantly monitor the markets any more!
+
+
+
+
+
+
+
+
 
 
 
@@ -56,6 +82,16 @@ ____________________________________________________
 <br><br>
 <br><br>
 
+#### Recommended Strategies / Bots
+
+<br><br>
+
+##### Grid AI Strategy - 30d
+- Seems slow but safe
+
+
+<br><br>
+
 #### Margin
 - Margin Trading ermöglicht es Tradern, geliehene Mittel zu nutzen, um ihre Handelsposition zu erhöhen und somit die potenziellen Gewinne (aber auch die potenziellen Verluste) zu vergrößern.
 
@@ -72,6 +108,26 @@ ____________________________________________________
 
 
 
+<br><br>
+<br><br>
+
+### Futures Grid
+
+<br><br>
+
+#### Bullish Trend - Aggressive - 15x - Long - 7D
+- Quite fast and still safe
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -83,6 +139,13 @@ ____________________________________________________
 
 <br><br>
 <br><br>
+_______________________________________________
+_______________________________________________
+<br><br>
+<br><br>
+
+
+
 
 ### Charts
 
