@@ -59,8 +59,8 @@ ____________________________________________________
 
 <br><br>
 
-#### Medium Risk
-1.Futures Grid - BTC - Bullish Trend - Aggressive - 15x Long - 7D
+#### High Risk
+1.Futures Grid - BTC/USDT - Bullish Trend - Aggressive - 15x Long - 7D
 
 
 
