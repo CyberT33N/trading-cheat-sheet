@@ -74,6 +74,51 @@ ____________________________________________________
 
 
 
+<br><br>
+<br><br>
+____________________________________________________
+____________________________________________________
+<br><br>
+<br><br>
+
+
+# Definitions
+
+
+
+
+
+
+<br><br>
+<br><br>
+
+
+## Futures
+Stell dir Perpetual Contracts (Perpetual Futures) als eine Art virtuelles Poker zwischen dir und dem Markt vor, bei dem es um den Preis einer Kryptowährung geht. Du setzt darauf, ob der Preis steigt oder fällt, ohne die Münzen wirklich in deiner digitalen Brieftasche zu haben.
+
+Hier die einfache Erklärung:
+- Was sind sie? Eine Art Wette auf die Zukunft eines Krypto-Preises, aber ohne ein festes Enddatum. Du kannst deine Position halten, solange du möchtest.
+- Kein Ablaufdatum: Im Gegensatz zu traditionellen Futures, die ein Verfallsdatum haben, haben diese keine. Du kannst also theoretisch ewig auf steigende oder fallende Preise wetten.
+- Hebelwirkung: Sie erlauben es dir, mit einem kleinen Einsatz große Beträge zu "kontrollieren" und potenziell deine Gewinne zu vervielfachen. Aber Vorsicht, das Gleiche gilt für Verluste.
+- Finanzierungsraten: Da es kein Enddatum gibt, sorgt ein Mechanismus, den man Finanzierungsrate nennt, dafür, dass der Preis des Perpetual Contracts nicht zu weit vom tatsächlichen Preis der Kryptowährung abweicht. Je nach Marktlage zahlst du eine kleine Gebühr oder bekommst eine, abhängig davon, ob du long (Preissteigerung) oder short (Preissenkung) gehst.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
