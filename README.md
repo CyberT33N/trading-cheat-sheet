@@ -72,8 +72,20 @@ ____________________________________________________
 
 
 
+
+
+
+
+
 <br><br>
 <br><br>
+____________________________________________________
+____________________________________________________
+<br><br>
+<br><br>
+
+
+# Strategies
 
 
 ## Flying Wheel Strategy
@@ -136,31 +148,39 @@ ____________________________________________________
 ```
 - It is recommended to use AI strategy
 
-<br><br>
-<br><br>
-
-#### Recommended Strategies / Bots
-
-<br><br>
-
-##### Grid AI Strategy - 30d
-- Seems slow but safe
 
 
-<br><br>
 
-#### Margin
+#### Explainign availabvle options
+
+Margin:
 - Margin Trading ermöglicht es Tradern, geliehene Mittel zu nutzen, um ihre Handelsposition zu erhöhen und somit die potenziellen Gewinne (aber auch die potenziellen Verluste) zu vergrößern.
 
 <br><br>
 
-##### Adjust margin
+Adjust margin:
 - "Adjust Margin" bei einem Grid Trading Bot auf Pionex bezieht sich auf die Anpassung der Marge (Margin), die für das Grid Trading verwendet wird.
 
 <br><br>
 
-##### Withdraw margin
+Withdraw margin:
 - If you want you can withdraw your margin back again to your account balance
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
+#### Grid AI Strategy - 30d
+- Seems slow but safe
+
+
 
 
 
