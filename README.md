@@ -29,15 +29,72 @@ ____________________________________________________
 
 ## Pionex
 
+
+<br><br>
+
+### Get Crypto
+- Just buy USDT via your cc or bank. Do not buy btc or other coins because the trading bots will run with USDT
+
 <br><br>
 
 ### Resume
-1. BTC -  Bullish Trend - Aggressive - 15x Long - 7D
-2. ETH - Grid AI Strategy - 30d
+
+<br><br>
+
+#### Low profit
+
+<br><br>
+
+##### LOW RISK
+1. Easy earn
+2. ETH - Grid AI Strategy - 30d [Like 1-3% each day]
+
+
+
+<br><br>
+<br><br>
+
+
+#### High Profit
+
+<br><br>
+
+#### Medium Risk
+1.Futures Grid - BTC - Bullish Trend - Aggressive - 15x Long - 7D
 
 
 
 
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
+
+## Flying Wheel Strategy
+- This strategy was first designed and introduced by Pionex. Proper use of this strategy can help users gain more than 15% in one month. The main idea is to first buy low using either Buy-the-Dip or Sideways Gain (invest stablecoin), then sell high using Covered Gain. There are two ways for you to use Flying Wheel Strategy at Pionex. Either you can use the flying wheel strategy bot on our App, or you can manually buy crypto using Sideways Gain and sell them using Covered Gain on our website
+
+- **You can not stop the bot and cash out until the current round is done**
+- **Does not make really sense with low investment because mostly you make like 1-3%**
+- **Higher risk** 
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
+## Easy earn
+- https://www.pionex.com/blog/easy-earn-en/
+- Easy Earn, through staking, asset hedging, and investment in structured products, provides stable growth in crypto for users seeking stable returns in the crypto system.
 
 
 
