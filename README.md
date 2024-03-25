@@ -234,11 +234,28 @@ Withdraw margin:
 <br><br>
 
 ### Futures Grid
+- https://www.pionex.com/blog/futures-grid/
 
-<br><br>
+### Bullish Trend - Aggressive
+- https://www.pionex.com/blog/pionex-arbitrage-bot/#comment-487
+- **Ziel:** Maximierung der Gewinne bei starkem Aufwärtstrend.
+- **Hebelwirkung:** Nutzt hohe Hebelwirkung, was bedeutet, dass der Bot mehr Kapital "ausleihen" kann, um größere Positionen einzunehmen.
+- **Risiko:** Höher, da die hohe Hebelwirkung die Gewinne bei richtiger Marktbewegung stark erhöhen kann, aber auch das Risiko eines Totalverlustes bei einer falschen Prognose steigt.
+- **Für wen?** Trader, die von einem starken Bullenmarkt überzeugt sind und bereit sind, ein hohes Risiko für potenziell hohe Gewinne einzugehen.
 
-#### Bullish Trend - Aggressive - 15x - Long - 7D
-- Quite fast and still safe
+### Balanced (Ausgewogen)
+- **Ziel:** Ausgewogene Herangehensweise, um von einem Aufwärtstrend zu profitieren, aber mit geringerem Risiko als die aggressive Strategie.
+- **Hebelwirkung:** Nutzt eine moderate Hebelwirkung, was ein ausgewogenes Verhältnis zwischen potenziellem Gewinn und Risiko bietet.
+- **Risiko:** Mittel, bietet einen Kompromiss zwischen der aggressiven und der moderaten Strategie.
+- **Für wen?** Trader, die einen Aufwärtstrend erwarten, aber ein ausgewogenes Risiko eingehen möchten, um gegen mögliche Marktschwankungen geschützt zu sein.
+
+### Moderate
+- **Ziel:** Vorsichtiger Ansatz, der darauf abzielt, stetige Gewinne bei einem erwarteten Aufwärtstrend zu erzielen, ohne zu viel Risiko einzugehen.
+- **Hebelwirkung:** Gering, was bedeutet, dass der Bot in kleinere Positionen investiert und weniger Kapital ausleiht.
+- **Risiko:** Niedriger, reduziert das Risiko von großen Verlusten, begrenzt aber auch die potenziellen Gewinne.
+- **Für wen?** Trader, die einen langsameren, stetigeren Gewinn bevorzugen und ein geringeres Risiko bei ihren Investitionen eingehen wollen.
+
+
 
 
 
